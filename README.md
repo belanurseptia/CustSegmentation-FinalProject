@@ -1,1 +1,2 @@
 # CustSegmentation-FinalProject
+in the final of this project, I was asked to determine the most optimal marketing strategy for the Thelook company (dummy company). I carried out customer segmentation to divide customers into several segments or groups based on general customer quality and personality, such as based on demographics, geography, behavior or psychographics. . This time we will try to do customer segmentation using a clustering model with the K-Means algorithm to see and group Thelook customers who have similarities in terms of transactions.
